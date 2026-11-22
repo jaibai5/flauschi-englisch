@@ -1,0 +1,20 @@
+{
+  "name": "Flauschis Englisch",
+  "short_name": "Englisch",
+  "description": "Englisch üben mit Flauschi: Wörter hören, zuordnen, schreiben – offline, ohne Daten nach außen.",
+  "lang": "de",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#f7f3ff",
+  "theme_color": "#7b5cff",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
