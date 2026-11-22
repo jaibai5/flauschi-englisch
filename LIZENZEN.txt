@@ -1,7 +1,7 @@
-Flauschis Englisch v0.1.1
+Flauschis Englisch v0.2.0
 
 Bilder: Twemoji v17.0.3, © Twitter, Inc. und weitere Mitwirkende, CC BY 4.0, https://github.com/jdecked/twemoji/tree/v17.0.3/assets/svg
 Lizenztext: https://creativecommons.org/licenses/by/4.0/
-Aussprache: erzeugt mit Piper-TTS, Stimme en_GB-cori-high (Datensatz LibriVox, gemeinfrei).
+Aussprache: erzeugt mit Piper-TTS, Stimme en_GB-alba-medium (Datensatz Edinburgh DataShare 10283/3270, CC BY 4.0; Grundmodell NVIDIA Hi-Fi TTS, CC BY 4.0); 4 Wörter (boy, brown, grey, schoolbag) mit en_GB-cori-high (Datensatz LibriVox, gemeinfrei). Jede Aufnahme mit einer Spracherkennung geprüft.
 3D: three.js 0.187.0 (MIT, vendor/three-0.187.0/LICENSE). Bäume, Blumen, Steine: Kenney Nature Kit 2.1 (CC0, kenney.nl).
 Flauschi-Konto: eigener Code des Flauschi-Verbunds.
