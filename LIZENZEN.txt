@@ -1,4 +1,4 @@
-Flauschis Englisch v0.2.0
+Flauschis Englisch v0.2.1
 
 Bilder: Twemoji v17.0.3, © Twitter, Inc. und weitere Mitwirkende, CC BY 4.0, https://github.com/jdecked/twemoji/tree/v17.0.3/assets/svg
 Lizenztext: https://creativecommons.org/licenses/by/4.0/
